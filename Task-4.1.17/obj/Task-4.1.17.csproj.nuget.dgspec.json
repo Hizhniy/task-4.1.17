@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hizhn\\source\\repos\\Task-4.1.17\\Task-4.1.17\\Task-4.1.17.csproj": {}
+    "C:\\Users\\hizhn\\source\\repos\\task-4.1.17\\Task-4.1.17\\Task-4.1.17.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hizhn\\source\\repos\\Task-4.1.17\\Task-4.1.17\\Task-4.1.17.csproj": {
+    "C:\\Users\\hizhn\\source\\repos\\task-4.1.17\\Task-4.1.17\\Task-4.1.17.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hizhn\\source\\repos\\Task-4.1.17\\Task-4.1.17\\Task-4.1.17.csproj",
+        "projectUniqueName": "C:\\Users\\hizhn\\source\\repos\\task-4.1.17\\Task-4.1.17\\Task-4.1.17.csproj",
         "projectName": "Task-4.1.17",
-        "projectPath": "C:\\Users\\hizhn\\source\\repos\\Task-4.1.17\\Task-4.1.17\\Task-4.1.17.csproj",
+        "projectPath": "C:\\Users\\hizhn\\source\\repos\\task-4.1.17\\Task-4.1.17\\Task-4.1.17.csproj",
         "packagesPath": "C:\\Users\\hizhn\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\hizhn\\source\\repos\\Task-4.1.17\\Task-4.1.17\\obj\\",
         "projectStyle": "PackageReference",
